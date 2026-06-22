@@ -135,7 +135,9 @@ The model is heavily biased toward the tone of the text rather than the substanc
 - **Label Stress-Testing:** I used Copilot to generate borderline posts, which helped me identify the ambiguity in posts before I started labeling.
 - **Failure Analysis:** I provided my wrong predictions to an LLM to find patterns other than what i already did. It identified the "Slang-to-Take" bias, noting the model's over reliance on words like "elite" to predict hot takes.
 
+## Loom Walkthrough
 
+https://www.loom.com/share/7468324003b74462a37cfc24cd6a99db
 
 
 
